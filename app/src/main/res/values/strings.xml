@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoveApp_0.3</string>
+    <string name="toast_message_1">Move for the next 10s!</string>
+    <string name="toast_message_2">You\'ve got some impressive moves, now let me judge them!</string>
+</resources>
